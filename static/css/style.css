@@ -1,0 +1,111 @@
+nav {
+    background-image: url("../image/bann.jpg");
+    background-size: 100% 100%;
+    border-bottom-style: solid;
+    border-bottom-color:#1f77b4;
+    border-bottom-width: 1.5px;
+
+}
+
+
+#head-title {
+    font-weight: bold;
+    color:#15458d ;
+}
+
+}
+#gauge {
+    padding: 0;
+}
+
+.btn {
+    background-color: rgba(255, 255, 255, 0.966);  
+    font-weight: bold;
+    margin-right: 10px;
+    opacity: 0.8;
+}
+
+
+h2 {
+    font-weight: bold;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    color: white;
+}
+
+
+
+p {
+    font-size: 15px;
+}
+
+.info {
+    background-color: white;
+}
+
+/*
+.info-container {
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 6px;
+    border-color: #D6DAD7;
+    background-color: white;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    padding-top: 5px;;
+}
+*/
+
+
+.bar-container {
+    margin-left: 20px; 
+}
+
+/*
+.bubble-container,.gauge-container, .bar-container {
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 6px;
+    border-color: #D6DAD7;
+    background-color: white;
+}
+*/
+
+
+.well {
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: #1f77b4;
+    margin-bottom: 0px;
+   
+}
+
+
+.panel {
+    margin-top: 0px;
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: #1f77b4
+}
+
+.panel-heading {
+    background-color: #1f77b4;
+    border-style: solid;
+    border-width: 8px;
+    border-color: #1f77b4;
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+.gauge-container {
+    margin-left: 30px;  
+}
+
+.bubble-container {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+
+body {
+    background-color:#F4F6F6;
+}
